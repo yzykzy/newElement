@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Yzy-Element",
   description: "高仿Elemenet 组件库",
-  base: "/newElement/",
+  base: "/yzy-element-new/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
